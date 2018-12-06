@@ -1,5 +1,7 @@
 CONVERSIONS 
 
 - RANDS TO CENTS
+    Multiply by 60
 - KM TO M 
 - LITER TO MI
+
